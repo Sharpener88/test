@@ -6,5 +6,3 @@ function testing($a, $b)
 }
 
 echo testing(5, 5); // upload
-
-// stash test
